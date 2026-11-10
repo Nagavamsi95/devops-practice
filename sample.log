@@ -1,0 +1,5 @@
+2026-11-08 10:01:12 INFO  service=web status=200 time=45ms
+2026-11-08 10:01:15 ERROR service=db status=500 time=1200ms
+2026-11-08 10:02:03 INFO  service=web status=200 time=52ms
+2026-11-08 10:03:44 WARN  service=cache status=429 time=8ms
+2026-11-08 10:04:10 ERROR service=web status=503 time=3000ms
